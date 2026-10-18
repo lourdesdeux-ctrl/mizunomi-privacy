@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mizunomi Privacy Policy / プライバシーポリシー / Política de privacidad</title>
+<style>
+  body { font-family: -apple-system, "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif; line-height: 1.8; max-width: 720px; margin: 0 auto; padding: 24px 16px 64px; color: #16324F; background: #F4FDFF; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.15rem; margin-top: 1.8rem; border-bottom: 2px solid #0AA5DC; padding-bottom: 4px; }
+  nav a { display: inline-block; margin: 0 12px 8px 0; padding: 6px 14px; border-radius: 999px; background: #0AA5DC; color: #fff; text-decoration: none; }
+  section { margin-top: 40px; }
+  a { color: #0A7FB0; }
+  .date { color: #5B7A93; font-size: 0.9rem; }
+</style>
+</head>
+<body>
+
+<h1>Mizunomi / みずのみ</h1>
+<nav>
+  <a href="#ja">日本語</a>
+  <a href="#en">English</a>
+  <a href="#es">Español</a>
+</nav>
+
+<!-- ===================== 日本語 ===================== -->
+<section id="ja" lang="ja">
+<h1>プライバシーポリシー</h1>
+<p class="date">最終更新日: 2026年10月18日</p>
+<p>Melune Studio(以下「当方」)は、水分補給アプリ「みずのみ」(以下「本アプリ」)における、ユーザーのプライバシーの取り扱いについて、次のとおり定めます。</p>
+
+<h2>1. 収集する情報</h2>
+<p>本アプリは、氏名・メールアドレス・位置情報など、ユーザーを特定できる個人情報を、収集しません。アカウント登録も必要ありません。</p>
+
+<h2>2. 端末内に保存される情報</h2>
+<p>本アプリは、次の情報を、ユーザーのスマートフォンの中だけに保存します。これらは当方のサーバーなどに送信されることはなく、当方が見ることもできません。</p>
+<ul>
+  <li>水を飲んだ回数と時刻、量(ml)の記録</li>
+  <li>通知の設定(オン・オフ、間隔、起きる時間、寝る時間)</li>
+  <li>目標の設定(回数、量)、表示言語の設定</li>
+</ul>
+
+<h2>3. 通知について</h2>
+<p>本アプリは、水を飲む時間をお知らせするために、スマートフォンの通知機能を使います。通知は、スマートフォンの中だけで予約され、外部のサーバーを使いません。通知は、スマートフォンの設定でいつでもオフにできます。</p>
+
+<h2>4. 第三者への提供・外部サービス</h2>
+<p>本アプリは、広告・アクセス解析などの外部サービスを使っていません。ユーザーの情報を第三者に提供することもありません。将来、これらを追加する場合は、事前に本ポリシーを更新します。</p>
+
+<h2>5. データの削除</h2>
+<p>本アプリの記録は、アプリをアンインストールするか、スマートフォンの設定からアプリのデータを削除すると、すべて消えます。</p>
+
+<h2>6. お子様のプライバシー</h2>
+<p>本アプリは、13歳未満のお子様を対象としていません。</p>
+
+<h2>7. ポリシーの変更</h2>
+<p>本ポリシーを変更する場合は、このページで最新の内容をお知らせします。</p>
+
+<h2>8. お問い合わせ</h2>
+<p>本アプリやこのポリシーについてのお問い合わせは、次のフォームからお願いします。</p>
+<p><a href="https://tally.so/r/J97RXz">お問い合わせフォーム</a></p>
+</section>
+
+<!-- ===================== English ===================== -->
+<section id="en" lang="en">
+<h1>Privacy Policy</h1>
+<p class="date">Last updated: October 18, 2026</p>
+<p>Melune Studio ("we") explains below how we handle your privacy in the water reminder app "Mizunomi" (the "App").</p>
+
+<h2>1. Information we collect</h2>
+<p>The App does not collect personal information that can identify you, such as your name, email address, or location. No account is required.</p>
+
+<h2>2. Information stored on your device</h2>
+<p>The App stores the following information only on your phone. It is never sent to our servers, and we cannot see it.</p>
+<ul>
+  <li>Your drink log: the number of drinks, their times, and amounts (ml)</li>
+  <li>Your reminder settings: on/off, interval, wake-up time, and bedtime</li>
+  <li>Your goal settings (number of drinks, amount) and display language</li>
+</ul>
+
+<h2>3. Notifications</h2>
+<p>The App uses your phone's notification feature to remind you to drink water. Reminders are scheduled entirely on your phone and do not use any external server. You can turn notifications off at any time in your phone settings.</p>
+
+<h2>4. Third parties and external services</h2>
+<p>The App does not use advertising, analytics, or other external services, and we do not share your information with third parties. If we add any of these in the future, we will update this policy beforehand.</p>
+
+<h2>5. Deleting your data</h2>
+<p>All records in the App are deleted when you uninstall the App or clear the App's data in your phone settings.</p>
+
+<h2>6. Children's privacy</h2>
+<p>The App is not directed at children under 13.</p>
+
+<h2>7. Changes to this policy</h2>
+<p>If we change this policy, we will post the latest version on this page.</p>
+
+<h2>8. Contact</h2>
+<p>If you have questions about the App or this policy, please contact us through the form below.</p>
+<p><a href="https://tally.so/r/4aXqyk">Contact form</a></p>
+</section>
+
+<!-- ===================== Español ===================== -->
+<section id="es" lang="es-419">
+<h1>Política de privacidad</h1>
+<p class="date">Última actualización: 18 de octubre de 2026</p>
+<p>Melune Studio ("nosotros") explica a continuación cómo tratamos tu privacidad en la app de recordatorio de agua "Mizunomi" (la "App").</p>
+
+<h2>1. Información que recopilamos</h2>
+<p>La App no recopila información personal que pueda identificarte, como tu nombre, correo electrónico o ubicación. No se necesita una cuenta.</p>
+
+<h2>2. Información guardada en tu dispositivo</h2>
+<p>La App guarda la siguiente información solo en tu teléfono. Nunca se envía a nuestros servidores y nosotros no podemos verla.</p>
+<ul>
+  <li>Tu registro de agua: el número de veces que bebiste, sus horas y las cantidades (ml)</li>
+  <li>Tus ajustes de recordatorios: activar o desactivar, intervalo, hora de levantarte y hora de dormir</li>
+  <li>Tus ajustes de metas (número de veces, cantidad) y el idioma de la App</li>
+</ul>
+
+<h2>3. Notificaciones</h2>
+<p>La App usa la función de notificaciones de tu teléfono para recordarte que tomes agua. Los recordatorios se programan por completo en tu teléfono y no usan ningún servidor externo. Puedes desactivar las notificaciones en cualquier momento en los ajustes de tu teléfono.</p>
+
+<h2>4. Terceros y servicios externos</h2>
+<p>La App no usa publicidad, analítica ni otros servicios externos, y no compartimos tu información con terceros. Si en el futuro agregamos alguno de ellos, actualizaremos esta política antes.</p>
+
+<h2>5. Eliminación de tus datos</h2>
+<p>Todos los registros de la App se eliminan cuando desinstalas la App o borras los datos de la App en los ajustes de tu teléfono.</p>
+
+<h2>6. Privacidad de los niños</h2>
+<p>La App no está dirigida a niños menores de 13 años.</p>
+
+<h2>7. Cambios en esta política</h2>
+<p>Si cambiamos esta política, publicaremos la versión más reciente en esta página.</p>
+
+<h2>8. Contacto</h2>
+<p>Si tienes preguntas sobre la App o esta política, escríbenos mediante el siguiente formulario.</p>
+<p><a href="【お問い合わせフォームのURL】">Formulario de contacto</a></p>
+</section>
+
+</body>
+</html>

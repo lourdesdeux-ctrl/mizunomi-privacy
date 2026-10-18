@@ -131,7 +131,7 @@
 
 <h2>8. Contacto</h2>
 <p>Si tienes preguntas sobre la App o esta política, escríbenos mediante el siguiente formulario.</p>
-<p><a href="【お問い合わせフォームのURL】">Formulario de contacto</a></p>
+<p><a href="https://tally.so/r/4aXqyk">Formulario de contacto</a></p>
 </section>
 
 </body>
